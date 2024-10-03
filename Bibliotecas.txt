@@ -1,0 +1,10 @@
+#Bibliootecas em C++ para se utilizar
+
+#include <bits/stdc++.h>
+#include <vector>
+#include <string>
+#include <deque>
+#include <queue>
+#include <stack>
+#include <pair>
+using namespace std;
